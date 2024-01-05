@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+Shut up
 
 ## 🤓 Course overview and learning outcomes 
 
